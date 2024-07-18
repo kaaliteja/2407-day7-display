@@ -1,0 +1,115 @@
+#body{
+    background-color: rgba(50, 102, 106, 0.942);
+}
+
+#alluArjun{
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 5rem;
+    border: 10px solid rgb(170, 22, 126);
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+
+}
+#body1{
+    background-color: rgb(118, 95, 201);
+}
+
+#home{
+    color: aliceblue;
+}
+#mainChar{
+    background-color: rgb(24, 2, 2);
+    text-align: center;
+    color: aliceblue;
+    font-family: serif;
+}
+
+#pushpaRaj{
+    background-color: rgb(107, 10, 10);
+    color: aliceblue;
+    font-family: serif;
+}
+
+#pushpaPic{
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+}
+#pushpaDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 385px;
+    overflow: auto;
+    text-align: justify;
+    
+}
+#srivalliName{
+    background-color: rgb(107, 10, 10);
+    color: aliceblue;
+    font-family: serif;
+}
+#srivalliPic{
+    width: 400px;
+    height: 420px;
+    margin-left: 20px;
+}
+#srivalliDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify;
+}
+#kesavaName{
+    background-color: rgb(107, 10, 10);
+    color: aliceblue;
+    font-family: serif;
+}
+#kesavaPic{
+    width: 400px;
+    height: 420px; 
+    margin-right: 20px;
+}
+#kesavaDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    overflow: auto;
+   text-align: justify;
+}
+#MS{
+    background-color: rgb(107, 10, 10);
+    color: aliceblue;
+    font-family: serif;
+}
+#MSDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 380px;
+    overflow: auto;
+   text-align: justify;
+} 
+#MSPic{
+    width: 400px;
+    height: 400px;
+    margin-left: 20px; 
+}
+#BSS{
+    background-color: rgb(107, 10, 10);
+    color: aliceblue;
+    font-family: serif;
+}
+#BSSPic{
+    width: 400px;
+    height: 420px;
+    margin-right: 20px; 
+}
+#BSSDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify; 
+}
